@@ -11,3 +11,4 @@
 * [2019-07-14](https://github.com/findingsea/OneWeekRead/blob/master/article/2019-07-14.md)
 * [2019-07-21](https://github.com/findingsea/OneWeekRead/blob/master/article/2019-07-21.md)
 * [2019-07-28](https://github.com/findingsea/OneWeekRead/blob/master/article/2019-07-28.md)
+* [2019-08-203](https://github.com/findingsea/OneWeekRead/blob/master/article/2019-08-03.md)
